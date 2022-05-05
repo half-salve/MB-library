@@ -1,0 +1,1 @@
+from .negative_sampler import sample
